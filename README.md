@@ -1,4 +1,8 @@
 ### Hi there 👋
+# I'm a Frontend Developer
+
+
+[![Rahmiddin's github stats ](https://github-readme-stats.vercel.app/api?username=rahmiddinasiydinov&show_icons=true&theme=dark)](https://github.com/rahmiddinasiydinov/)
 
 <!--
 **rahmiddinasiydinov/rahmiddinasiydinov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
