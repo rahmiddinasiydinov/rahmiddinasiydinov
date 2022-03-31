@@ -1,4 +1,4 @@
-# I'm a Frontend Developer
+# I'm Software engineer(Javascript)
 
 
 [![Rahmiddin's github stats ](https://github-readme-stats.vercel.app/api?username=rahmiddinasiydinov&show_icons=true&theme=dark)
