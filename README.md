@@ -1,4 +1,4 @@
-# I'm Software engineer(Javascript)
+# I'm a Software engineer(Javascript)
 
 
 [![Rahmiddin's github stats ](https://github-readme-stats.vercel.app/api?username=rahmiddinasiydinov&show_icons=true&theme=dark)
