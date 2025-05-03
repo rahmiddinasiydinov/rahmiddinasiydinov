@@ -1,5 +1,5 @@
 # I'm a Software engineer(Javascript)
-[![Rakhmiddin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rahmiddinasiydinov&bg_color=FFDEDE&color=000000&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/rahmiddinasiydinov)
+[![Rakhmiddin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rahmiddinasiydinov&bg_color=000000&color=000000&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/rahmiddinasiydinov)
 
 
 [![Rahmiddin's github stats ](https://github-readme-stats.vercel.app/api?username=rahmiddinasiydinov&show_icons=true&theme=light)
