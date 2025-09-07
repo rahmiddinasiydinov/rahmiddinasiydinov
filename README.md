@@ -1,4 +1,4 @@
-# I'm a Software engineer(Javascript)
+# I'm a software engineer.
 [![Rakhmiddin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rahmiddinasiydinov&bg_color=000000&title_color=F1EFEC&area_color=C890A7&area=true&color=FFDEDE&line=FFDEDE&point=FFDEDE&area=true&hide_border=true)](https://github.com/rahmiddinasiydinov)
 
 
